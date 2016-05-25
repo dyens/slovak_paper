@@ -1,0 +1,68 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc} % your input encoding
+\usepackage[T2A]{fontenc} % optional
+\usepackage[english]{babel}
+%\usepackage{cyrillic}
+\usepackage{amssymb}
+%\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{enumerate}
+\baselineskip=20pt
+\hsize=340pt
+\vsize=490pt
+%\usepackage[english]{babel}
+\usepackage{latexsym}
+
+
+
+\def\sod{{\leavevmode\setbox1=\hbox{d}%
+\hbox to 1.05\wd1{d\kern-0.4ex{\char039}\hss}}}%cstocs
+\def\sot{{\leavevmode\setbox1=\hbox{t}%
+\hbox to \wd1{t\kern-0.5ex{\char039}\hss}}}%cstocs
+\def\sol{l\kern-0.3ex\raise0.1ex\hbox{'}\kern-0.10ex}%cstocs
+\def\soL{L\kern-0.8ex\raise0.1ex\hbox{'}\kern0.1ex}%cstocs
+
+\begin{document}
+\title{Directed percolation process advected by the Navier-Stokes velocity
+ensemble: Effect of compressibility}
+
+%-------------------------------------------------------------------------------------------------------%
+
+\author{N.~V.~Antonov$^{1}$, M. Hnatich$^{1,2,3}$, A.~S.~Kapustin$^{1}$, T. Lu\v{c}ivjansk\'y$^{3,5}$,L.~Mi\v{z}i\v{s}in$^{3}$}
+
+\maketitle \mbox{ }\\
+ $^{1}$ Department of Theoretical Physics, St. Petersburg 
+University,\\Ulyanovskaya 1, St. Petersburg, Petrodvorets, 198504 Russia,\\
+ $^{2}$ Institute of Experimental
+Physics, Slovak Academy of Sciences, Watsonova 47, 040 01
+Ko\v{s}ice, Slovakia,\\
+$^{3}$ Faculty of Sciences, P.J. \v{S}afarik
+University, Moyzesova 16, 040 01 Ko\v{s}ice, Slovakia,\\
+$^4$ Bogoliubov Laboratory of Theoretical Physics, JINR, 141980 Dubna, Moscow Region, Russia,\\
+$^{5}$ Fakult\"at f\"ur Physik, Universit\"at Duisburg-Essen, D-47048 Duisburg, Germany\\
+
+Authors:\\
+
+{\bf Michal Hnatich}\\
+ Institute of Experimental
+Physics, Slovak Academy of Sciences, Watsonova 47, 040 01
+Ko\v{s}ice, Slovakia \\
++421 908 321 654\\
+ hnatic@saske.sk\\
+
+ {\bf Tom\'a\v{s} Lu\v{c}ivjansk\'y}\footnote{corresponding author}\\
+Fakult\"at f\"ur Physik, Universit\"at Duisburg-Essen, 
+
+D-47048 Duisburg, Germany \\
++49 162 464 2134\\
+tomas.lucivjansky@uni-due.de\\
+\newpage
+\begin{abstract}
+
+\end{abstract}
+Keywords: 
+\newpage
+  \begin{abstract}
+\end{abstract}
+
+\end{document}
